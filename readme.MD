@@ -10,4 +10,4 @@
 * push the changes to github/central repo
 
 
-
+git add . ; git commit -m "hello world" ; git push -u origin main
