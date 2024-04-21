@@ -11,6 +11,6 @@ else
 fi
 
 dnf install mysql -y
-exit-status=$?
-echo ${exit-status}
+exit=$?
+echo ${exit}
 dnf install git -y
